@@ -1,0 +1,5 @@
+# Shared defaults for the project team. Individual roles are in .codex/agents/.
+[agents]
+enabled = true
+max_concurrent_threads_per_session = 4
+

@@ -1,0 +1,9 @@
+{
+  "name": "project-template",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Reusable role-based Codex project team.",
+  "scripts": {
+    "validate:skills": "node scripts/validate-skills.mjs"
+  }
+}
